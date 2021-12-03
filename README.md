@@ -1,10 +1,14 @@
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Circle-icons-car.svg/512px-Circle-icons-car.svg.png" align="right" width="25%" />
+
 # CBR Reserveringszoeker
 Een tampermonkey browserscript om geautomatiseerd een reservering te claimen op de website van het Centraal Bureau Rijvaardigheidsbewijzen.
 
-**LET OP!**
+<hr/>
+
+### LET OP!
 
 Zorg dat je de website van het CBR open hebt staan in een apart tabje. <br/>
-De titel van het tabje tijdens het zoeken is _'Reserveren - CBR - Zoeken....'_. Wanneer er een reservering gevonden is wordt de titel van het tabje aangepast naar _'!!! Reservering gevonden !!!'_.<br/>
+De titel van het tabje tijdens het zoeken is _**'Reserveren - CBR - Zoeken....'**_. Wanneer er een reservering gevonden is wordt de titel van het tabje aangepast naar _**'!!! Reservering gevonden !!!'**_.<br/>
 Het script probeert deze reservering automatisch aan te klikken zodat je in de betaalstap komt. Ik vermoed dat het CBR in sommige gevallen de reserveringen niet door laat gaan omdat je te snel bent. In dit geval wordt de titel nog wel aangepast, maar staat er een foutmelding op de pagina. Als je snel een incognito tabblad opent en hier in logt op het CBR ben je hoogstwaarschijnlijk nog wel op tijd om de reservering handmatig te claimen.
 
 
