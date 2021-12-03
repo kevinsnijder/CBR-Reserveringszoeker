@@ -34,8 +34,10 @@ Het script probeert deze reservering automatisch aan te klikken zodat je in de b
 
 **8.** Vul een datum in vanaf wanneer je wilt beginnen met zoeken
 
-  Het script zoekt automatisch 4 weken vooruit.
+   Het script zoekt automatisch 4 weken vooruit.
 
 **9.** Klik op zoeken
 
-**10.** Het script zoekt en reserveert automatisch een vrije plaats!
+**10.** Het script zoekt en reserveert automatisch een vrije plaats! 
+
+   Vergeet niet binnen een uur te betalen.
